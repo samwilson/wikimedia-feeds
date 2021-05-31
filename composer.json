@@ -23,7 +23,7 @@
         "addwiki/mediawiki-datamodel": "^0.7",
         "suin/php-rss-writer": "^1.5",
         "diversen/parse-argv": "^1.0",
-        "symfony/dom-crawler": "^3.1"
+        "symfony/dom-crawler": "^5.3"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.0",
